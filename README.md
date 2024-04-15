@@ -1,0 +1,1 @@
+# automacao_emails_outlook
