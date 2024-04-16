@@ -10,7 +10,7 @@ Foram necessários os seguintes pacotes:
 | Pacote |
 | :----------- |
 | [pywin32](https://pypi.org/project/pywin32/ "PyWin32")
-| [datetime](https://docs.python.org/3/library/datetime.html) "Datetime")
+| [datetime](https://docs.python.org/3/library/datetime.html "Datetime")
 
 ---
 ### Contato
